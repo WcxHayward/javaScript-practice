@@ -5,3 +5,4 @@
 * [实现一个new](/new.js)
 * [实现一个防抖函数](/debounce.js)
 * [实现一个节流函数](/throttle.js)
+* [实现一个去重函数](/duplicate.js)
