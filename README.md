@@ -7,3 +7,4 @@
 * [实现一个节流函数](/throttle.js)
 * [实现一个去重函数](/duplicate.js)
 * [实现一个科里化函数](/currying.js)
+* [实现一个forEach](/forEach.js)
