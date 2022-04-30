@@ -10,3 +10,4 @@
 * [实现一个forEach](/forEach.js)
 * [实现一个map](/map.js)
 * [实现一个filter](/filter.js)
+* [实现一个reduce](/reduce.js)
