@@ -13,3 +13,4 @@
 * [实现一个reduce](/reduce.js)
 * [实现一个every](/every.js)
 * [实现一个promiseAll](/promiseAll.js)
+* [实现一个promise](/promise.js)
